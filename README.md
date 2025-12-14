@@ -19,7 +19,7 @@
 
 ## Screenshot of Playground
 ![Playground Screenshot1](assets/playground_screenshot1.png)
-![Playground Screenshot1](assets/playground_screenshot1.png)
+![Playground Screenshot2](assets/playground_screenshot2.png)
 ## Mini Project Summary
 The mini project focuses on summarizing a given paragraph into exactly three bullet points
 using a GitHub Marketplace language model. The project demonstrates how AI models can
