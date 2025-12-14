@@ -1,0 +1,14 @@
+Original Paragraph:
+
+
+Machine learning is a branch of artificial intelligence that focuses on building systems
+that learn from data. Instead of being explicitly programmed, these systems identify
+patterns and make decisions with minimal human intervention. Machine learning is widely
+used in applications such as recommendation systems, fraud detection, and image recognition.
+
+
+Summary (3 Bullet Points):
+
+- Machine learning is a subset of artificial intelligence focused on systems that learn from data and make decisions with minimal human input.
+- It is utilized in various applications, including recommendation systems, fraud detection, and image recognition.
+- Machine learning systems identify patterns and make decisions without being explicitly programmed.
