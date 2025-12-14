@@ -18,8 +18,8 @@
 [Open the Google Colab Notebook](https://colab.research.google.com/drive/105INRFh8Cl7dZSSlXNMAUdud-55j4HU6?usp=sharing)
 
 ## Screenshot of Playground
-![Playground Screenshot](assets/playground_screenshot.png)
-
+![Playground Screenshot1](assets/playground_screenshot1.png)
+![Playground Screenshot1](assets/playground_screenshot1.png)
 ## Mini Project Summary
 The mini project focuses on summarizing a given paragraph into exactly three bullet points
 using a GitHub Marketplace language model. The project demonstrates how AI models can
